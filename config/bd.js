@@ -1,5 +1,5 @@
 module.exports = {
-    mongoUrl: 'mongodb+srv://kamartur778:oPa0j6q0YXecSdPS@cluster0.pxcvidg.mongodb.net/?retryWrites=true&w=majority',
+    mongoUrl: 'mongodb+srv://kamartur778:oPa0j6q0YXecSdPS@cluster0.pxcvidg.mongodb.net/Users?retryWrites=true&w=majority',
     
     
     // mongodb+srv://kamartur778:oPa0j6q0YXecSdPS@cluster0.pxcvidg.mongodb.net/?retryWrites=true&w=majority",
